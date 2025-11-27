@@ -1,0 +1,7 @@
+caelestia-meta
+caelestia-shell
+creality-print-appimage
+orca-slicer-bin
+pear-desktop
+vial-appimage
+visual-studio-code-bin
