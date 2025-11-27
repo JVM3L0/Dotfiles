@@ -1,0 +1,7 @@
+[sie][Compressor#0]
+bypass=true
+makeup=6
+ratio=6
+release=150
+sidechainMode=1
+threshold=-24

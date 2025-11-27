@@ -1,0 +1,19 @@
+[
+    {
+        "key": "ctrl+/",
+        "command": "-editor.action.accessibleViewAcceptInlineCompletion",
+        "when": "accessibleViewIsShown && accessibleViewCurrentProviderId == 'inlineCompletions'"
+    },
+    {
+        "key": "ctrl+q",
+        "command": "-workbench.action.quit"
+    },
+    {
+        "key": "ctrl+q",
+        "command": "workbench.action.quickOpenNavigateNextInViewPicker"
+    },
+    {
+        "key": "ctrl+shift+q",
+        "command": "workbench.action.quickOpenNavigatePreviousInViewPicker"
+    }
+]

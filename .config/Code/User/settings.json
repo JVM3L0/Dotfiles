@@ -1,0 +1,17 @@
+{
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "workbench.iconTheme": "catppuccin-mocha",
+    "coverage-gutters.coverageFileNames": [
+        ".coverage.xml",
+    ],
+    "explorer.confirmDelete": false,
+    "terminal.explorerKind": "external",
+    "editor.fontFamily": "JetBrainsMono Nerd Font Mono",
+    "editor.fontLigatures": true,
+    "window.commandCenter": false,
+    "workbench.activityBar.location": "hidden",
+    "chat.commandCenter.enabled": false,
+    "editor.minimap.enabled": false,
+    "editor.allowVariableFonts": false,
+    "window.menuBarVisibility": "compact"
+}
